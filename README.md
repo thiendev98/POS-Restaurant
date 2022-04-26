@@ -7,7 +7,5 @@ Chạy khi mới pull về để tải node module.
 ### `npm start`
 Chạy server local.
 
-## Git Commands
-
-### `git --no-pager log > log.txt`
-Export file log.txt
+## Mô tả đóng góp
+- Trang quản lý thực đơn dành cho manage cho phép manage thêm món ăn, đồ uống vào thực đơn
